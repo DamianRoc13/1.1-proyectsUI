@@ -66,3 +66,18 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+.card-image {
+  max-width: 280px;
+  padding: 11px;
+}
+
+.card-title {
+  font-size: 26px;
+  color: rgb(84, 171, 142);
+  font-weight: bold;
+}
+
+.card-description {
+  color: #242424;
+}
